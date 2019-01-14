@@ -15,8 +15,8 @@ class Triangle
  begin
     raise TriangleError
     puts error.message
-    
-  else
+  end 
+ e
     
  end 
   
