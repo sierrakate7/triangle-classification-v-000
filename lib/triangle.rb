@@ -17,6 +17,7 @@ class Triangle
     puts error.message
   end 
  elsif side_one == side_two && side_1 == side_three
+  
     
  end 
   
