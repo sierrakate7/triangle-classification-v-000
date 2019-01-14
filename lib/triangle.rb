@@ -1,4 +1,6 @@
 class Triangle
   
-  def ini
+  def initialize
+    
+  end 
 end
