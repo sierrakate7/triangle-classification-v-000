@@ -25,8 +25,7 @@ class Triangle
     self.kind = :scalene
     end 
   end 
-  
-  
-  
 end 
+
+class 
 
