@@ -24,7 +24,6 @@ class Triangle
   else
     self.kind = :scalene
   end 
-    
  end 
   
   end 
