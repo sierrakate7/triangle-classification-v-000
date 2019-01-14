@@ -23,8 +23,7 @@ class Triangle
     self.kind = :isoceles 
   else
     self.kind = :scalene
+    end 
   end 
- end 
-  
-  end 
+end 
 end
