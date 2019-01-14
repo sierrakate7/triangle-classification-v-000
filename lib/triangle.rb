@@ -1,5 +1,5 @@
 class Triangle
-  attr_accessor :side_one, :side_two, :side_three
+  attr_accessor :side_one, :side_two, :side_three, :kind
   
   
   
@@ -25,4 +25,8 @@ class Triangle
     self.kind = :scalene
     end 
   end 
+  
+  
+  
 end 
+
