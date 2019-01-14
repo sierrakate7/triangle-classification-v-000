@@ -10,7 +10,7 @@ class Triangle
   end 
   
   def kind
-    if (@side_one + @side_two) 
+    if (@side_one + @side_two) <= @side 3
  end 
   
   end 
