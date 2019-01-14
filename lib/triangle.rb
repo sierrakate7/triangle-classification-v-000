@@ -1,5 +1,5 @@
 class Triangle
-  attr
+  attr_accessor
   
   
   
