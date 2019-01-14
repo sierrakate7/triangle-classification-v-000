@@ -19,6 +19,7 @@ class Triangle
  elsif side_one == side_two && side_1 == side_three
     self.kind + :equilateral 
   
+ elsif side_one 
     
  end 
   
