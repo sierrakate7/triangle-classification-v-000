@@ -17,9 +17,10 @@ class Triangle
     puts error.message
   end 
  elsif side_one == side_two && side_1 == side_three
-    self.kind + :equilateral 
+    self.kind == :equilateral 
   
  elsif side_one == side_two || side_one == side_three || side_two == side_three
+    self.kind 
     
  end 
   
