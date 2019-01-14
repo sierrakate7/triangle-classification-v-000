@@ -16,7 +16,7 @@ class Triangle
     raise TriangleError
     puts error.message
   end 
- elsif side_one == side_two && side_
+ elsif side_one == side_two && side_1 == side_three
     
  end 
   
